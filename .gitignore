@@ -1,0 +1,6 @@
+SampleApplication/.vs/
+SampleApplication/SampleApplication/bin/
+SampleApplication/SampleApplication/obj/
+SampleApplication/SampleUnitTests/obj/
+SampleApplication/SampleUnitTests/bin/Debug/netcoreapp2.1/xunit.runner.reporters.netcoreapp10.dll
+SampleApplication/SampleUnitTests/bin/Debug/
